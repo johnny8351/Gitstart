@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("hello world")
+        let Image = Image()
+        print(Image())
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
